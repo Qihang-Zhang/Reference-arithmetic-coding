@@ -1,0 +1,1 @@
+python ./python/adaptive-arithmetic-compress.py ./data/Principles-of-Economics.epub ./data/compressedfile
